@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mahima2124/temp-react/static/css/main.9318e3ef.chunk.css",
+    "main.js": "/mahima2124/temp-react/static/js/main.b473e89e.chunk.js",
+    "main.js.map": "/mahima2124/temp-react/static/js/main.b473e89e.chunk.js.map",
+    "runtime-main.js": "/mahima2124/temp-react/static/js/runtime-main.7a11ee3a.js",
+    "runtime-main.js.map": "/mahima2124/temp-react/static/js/runtime-main.7a11ee3a.js.map",
+    "static/js/2.881f756e.chunk.js": "/mahima2124/temp-react/static/js/2.881f756e.chunk.js",
+    "static/js/2.881f756e.chunk.js.map": "/mahima2124/temp-react/static/js/2.881f756e.chunk.js.map",
+    "static/js/3.ca22e3da.chunk.js": "/mahima2124/temp-react/static/js/3.ca22e3da.chunk.js",
+    "static/js/3.ca22e3da.chunk.js.map": "/mahima2124/temp-react/static/js/3.ca22e3da.chunk.js.map",
+    "index.html": "/mahima2124/temp-react/index.html",
+    "static/css/main.9318e3ef.chunk.css.map": "/mahima2124/temp-react/static/css/main.9318e3ef.chunk.css.map",
+    "static/js/2.881f756e.chunk.js.LICENSE.txt": "/mahima2124/temp-react/static/js/2.881f756e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a11ee3a.js",
+    "static/js/2.881f756e.chunk.js",
+    "static/css/main.9318e3ef.chunk.css",
+    "static/js/main.b473e89e.chunk.js"
+  ]
+}
